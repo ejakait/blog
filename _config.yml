@@ -17,7 +17,7 @@ root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
-menu:
+nav:
   About: /about
   Contact: /contact
   Instagram: https://www.instagram.com
@@ -79,7 +79,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: edinburgh
+theme: cactus-dark
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
